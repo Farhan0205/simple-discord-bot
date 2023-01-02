@@ -26,7 +26,7 @@
 #Webhook Config
 [webhookConfig]
 	#Should webhook messages be used
-	enabled = false
+	enabled = true
 	#The URL of the channel webhook to use for Chat Messages
 	webhookurl = "https://discord.com/api/webhooks/1059502731510943785/VxuInhPQxgCnq7WQZkBOYF2hLYF_EsmQYxj5u_3Z7FTvSsvgjT4Ce9BYgrA7UWvyEUv7"
 	#The URL of the channel webhook to use for Server Messages Messages
